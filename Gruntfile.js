@@ -17,6 +17,7 @@ module.exports = function(grunt) {
 				},
 				files: {
 					"assets/css/simplegrid.css": ["assets/less/simplegrid.less"],
+					"assets/css/example.css": ["assets/less/example.less"],
 				}
 			}
 		},

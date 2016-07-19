@@ -1,0 +1,22 @@
+body {
+  background: #ccc;
+}
+body .main {
+  margin: 50px auto;
+  width: 90%;
+}
+body .main h1 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+body .main .row {
+  overflow: hidden;
+}
+body .main .row div {
+  background: #fff;
+  min-height: 50px;
+  text-align: center;
+  line-height: 50px;
+  margin-bottom: 20px;
+}
