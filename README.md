@@ -1,9 +1,7 @@
 #Simplegrid (grid system)
 
 ## Setup
-
-### NodeJS
-First Install [nodejs](https://nodejs.org/en)
+First of all you need to have [Node.js](https://nodejs.org/en) already installed.
 
 ### Terminal
 Run the following codes on terminal (one by one)
