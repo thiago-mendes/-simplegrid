@@ -1,4 +1,5 @@
 #SimpleGrid (grid system)
+A simple and responsive grid system based on 12 columns.
 
 ### Setup
 First of all you need to have [Node.js](https://nodejs.org/en) already installed.
