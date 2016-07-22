@@ -1,4 +1,4 @@
-#Simplegrid (grid system)
+#SimpleGrid (grid system)
 
 ### Setup
 First of all you need to have [Node.js](https://nodejs.org/en) already installed.
@@ -9,7 +9,7 @@ npm install
 npm install -g grunt-cli
 
 ### Compiling
-In order to compile the ".less" code into a ".css" file you need to run the follow code.
+In order to compile the ".less" code into a ".css" file you need to run the follow code (still on terminal).
 
 grunt
 
