@@ -1,18 +1,18 @@
-#Sistema simples (GRID)
+#Simplegrid (grid system)
 
-### Dependencias 
+## Setup
 
-* NPM
+### NodeJS
+First Install [nodejs](https://nodejs.org/en)
 
+### Terminal
+Run the following codes on terminal (one by one)
 
-### Install node_modules
+npm install
 
-npm install grunt --save-dev
+npm install -g grunt-cli
 
-npm install grunt-contrib-less --save-dev
-
-npm install grunt-contrib-watch --save-dev
-
-
-### Generate CSS Files
+### Compile Less to CSS
 grunt
+
+#### That's it. You're read to to :-)
