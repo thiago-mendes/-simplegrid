@@ -1,18 +1,17 @@
-#Sistema simples (GRID)
+#SimpleGrid (grid system)
+A simple and responsive grid system based on 12 columns.
 
-### Dependencias 
+### Setup
+First of all you need to have [Node.js](https://nodejs.org/en) already installed.
 
-* NPM
+### On Terminal run the following codes (one by one)
+npm install
 
+npm install -g grunt-cli
 
-### Install node_modules
+### Compiling
+In order to compile the ".less" code into a ".css" file you need to run the follow code (still on terminal).
 
-npm install grunt --save-dev
-
-npm install grunt-contrib-less --save-dev
-
-npm install grunt-contrib-watch --save-dev
-
-
-### Generate CSS Files
 grunt
+
+#### That's it. Now you're read to go :-)
